@@ -30,3 +30,4 @@ See the [OpenUSD Proposals Status](https://github.com/orgs/PixarAnimationStudios
 - [Accessibility Schema](accessibility/README.md) ![Status:Published](https://img.shields.io/badge/Published-green) ([current PRs and issues](https://github.com/PixarAnimationStudios/OpenUSD-proposals/issues?q=label%3Aaccessibility-schema ))
 - [OpenTimelineIO Time Series Data](usdotio/README.md) ![Status:Draft](https://img.shields.io/badge/Draft-blue) ([current PRs and issues](https://github.com/PixarAnimationStudios/OpenUSD-proposals/issues?q=label%3Ausdotio))
 - [Sparse Array Edits](sparse-array-edits/README.md) ![Status:Published](https://img.shields.io/badge/Published-green) ([current PRs and issues](https://github.com/PixarAnimationStudios/OpenUSD-proposals/issues?q=label%3Asparse-array-edits))
+- [Level of Detail Schema](level-of-detail/README.md) ![Status:Draft](https://img.shields.io/badge/Draft-blue)
